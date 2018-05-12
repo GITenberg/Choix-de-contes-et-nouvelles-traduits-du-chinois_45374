@@ -1,0 +1,29 @@
+_repo: Choix-de-contes-et-nouvelles-traduits-du-chinois_45374
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pavie, Théodore
+    alias: Pavie, Theodore
+    gutenberg_agent_id: '43251'
+    url: http://www.gutenberg.org/2009/agents/43251
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45374'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Translations into French'
+tableOfContents: Les pivoines -- Le bonze Kai-Tsang sauvé des eaux -- Le poète Ly-Taï-Pe
+  -- Le lion de pierre -- La légende du roi des dragons -- Les renards-fées -- Le
+  Luth brisé.
+title: Choix de contes et nouvelles traduits du chinois
+url: http://www.gutenberg.org/ebooks/45374
