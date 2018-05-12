@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45374#Choix-de-contes-et-nouvelles-traduits-du-chinois
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2014-04-14'
 gutenberg_type: Text
